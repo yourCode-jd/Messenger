@@ -255,9 +255,9 @@
         max-height: 45;
     }
 
-    .hero-header {
+    /* .hero-header {
         margin-top: -100px !important;
-    }
+    } */
 }
 
 @media (min-width: 992px) {
@@ -511,6 +511,13 @@
 
 }
 
+@media (max-width: 768px) {
+    .hero-header p {
+        max-width: 100%;
+        font-size: 16px !important;
+    }
+}
+
 .header::after {
     position: absolute;
     content: "";
@@ -709,8 +716,7 @@
 
 @media (max-width: 992px) {
     .hero-header {
-        padding-top: 280px;
-
+        padding-top: 40px;
     }
 
     .hero-header .rotate-img img {
