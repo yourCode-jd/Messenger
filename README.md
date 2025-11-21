@@ -9,7 +9,7 @@ It focuses on clean design, responsive layouts or integrating into a larger full
 
 ## 🚀 Github Demo
 
-[View Here](https://yourcode-jd.github.io/Technology/)
+[View Here](https://yourcode-jd.github.io/Messenger/)
 
 ---
 
